@@ -1,5 +1,13 @@
 # 🏠 House Price Prediction
 
+
+🚀 **Live Demo:** https://house-price-prediction-yash.streamlit.app/
+
+## Features
+- Predicts customer churn
+- Interactive Streamlit dashboard
+- Visualizations using Plotly
+- Machine Learning model built with Scikit-learn
 ## 📌 Overview
 
 This project predicts house prices using Machine Learning and provides an interactive Streamlit web application for users to estimate property prices based on input features.
